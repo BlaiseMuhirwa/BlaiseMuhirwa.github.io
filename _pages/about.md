@@ -16,5 +16,10 @@ My research interests, broadly defined, are in **statistical machine learning** 
 
 
 
+Publications
+======
+
+- <span style="color:CornflowerBlue">[Deep Learning Detects Actionable Molecular and Clinical Features Directly from Head/Neck Squamous Cell Carcinoma Histopathology Slides](https://www.redjournal.org/article/S0360-3016(19)34202-6/fulltext)</span>  
+	*International Journal of Radiation Oncology*, 2022
 
 
