@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+Hi there! 
 
 I am currently working as an AI Engineer at [ThirdAI](https://thirdai.com) where I mostly work on a 
 variety of machine learning and engineering problems. Prior to that, I was a student at
