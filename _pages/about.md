@@ -23,8 +23,8 @@ Research
 - <a href="https://www.redjournal.org/article/S0360-3016(19)34202-6/fulltext" style="text-decoration:none; color:CornflowerBlue">Deep Learning Detects Actionable Molecular and Clinical Features Directly from Head/Neck Squamous Cell Carcinoma Histopathology Slides</a>
 *International Journal of Radiation Oncology*, 2020
 
-- <span style="color:CornflowerBlue"> [Machine Learning for Usage Based Insurance]</span> 
+- <span style="color:CornflowerBlue"> Machine Learning for Usage Based Insurance</span> 
   Poster presentation. Blaise Munyampirwa, Rebecca Willett and Willem Marais, 2022.
-  <img src="ubi.png" alt="Research Poster" width="35%"/>
+  <img src="ubi.png" alt="Research Poster" width="50%"/>
 
 
