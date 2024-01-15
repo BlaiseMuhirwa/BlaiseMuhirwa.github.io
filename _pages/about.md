@@ -20,10 +20,10 @@ For the latter, I'm mostly excited about devising fast and hardware efficient al
 Research
 ======
 
-- <span style="color:CornflowerBlue">[Deep Learning Detects Actionable Molecular and Clinical Features Directly from Head/Neck Squamous Cell Carcinoma Histopathology Slides](https://www.redjournal.org/article/S0360-3016(19)34202-6/fulltext)</span>  
-	*International Journal of Radiation Oncology*, 2020
+- <a href="https://www.redjournal.org/article/S0360-3016(19)34202-6/fulltext" style="text-decoration:none; color:CornflowerBlue">Deep Learning Detects Actionable Molecular and Clinical Features Directly from Head/Neck Squamous Cell Carcinoma Histopathology Slides</a>
+*International Journal of Radiation Oncology*, 2020
 
 - <span style="color:CornflowerBlue"> [Machine Learning for Usage Based Insurance]</span> 
-  Poster presentation. Blaise Munyampirwa, Rebecca Willett and Willem Marais, 2022. ![Research Poster](poster.png)
+  Poster presentation. Blaise Munyampirwa, Rebecca Willett and Willem Marais, 2022. ![Research Poster](ubi.png)
 
 
