@@ -11,20 +11,19 @@ redirect_from:
 {% include base_path %}
 Hi there! 
 
-I am currently working as an AI Engineer at [ThirdAI](https://thirdai.com) where I mostly work on a 
-variety of machine learning and engineering problems. Prior to that, I was a student at
-The University of Chicago where I double-majored in Computer Science and Computational and Applied Mathematics. I was fortunate enough to be advised by Professor [Rebecca Willet](https://willett.psd.uchicago.edu/) and to work with Professor [Raul Castro Fernandez](https://raulcastrofernandez.com/). 
+I am currently working as an Engineer at [Groundlight](https://www.groundlight.ai). Previously, I was an 
+AI engineer at [ThirdAI](https://thirdai.com) where I worked on a variety of machine learning and engineering problems. Prior to that, I was a student at The University of Chicago where I double-majored in Computer Science and Computational and Applied Mathematics. I was fortunate enough to be advised by Professor [Rebecca Willet](https://willett.psd.uchicago.edu/) and to work with Professor [Raul Castro Fernandez](https://raulcastrofernandez.com/). 
 
-My research interests, broadly defined, are in **statistical machine learning** and **natural language processing**. For instance, the problem of [embedding recycling](https://arxiv.org/pdf/2207.04993.pdf) is of particular interest to me, as is the ability to exhibit provable theoretical guarantees for state-of-the-art machine learning methods, such as the attention mechanism--the latter of which is best exemplified by the work of [Vukcovic et al.](https://arxiv.org/pdf/2007.02876.pdf).
-
-
+My research interests, broadly defined, are in statistical machine learning and machine learning systems.
+For the latter, I'm mostly excited about devising fast and hardware efficient algorithms for training and inferencing large language models. This involves leveraging sparsity patterns in both the data and the model. Previously, I have also worked on efficient algorithms for the classic Approximate Nearest Neighbor Search (ANNS) problem in high dimension using graph-based methods. 
 
 Research
 ======
 
 - <span style="color:CornflowerBlue">[Deep Learning Detects Actionable Molecular and Clinical Features Directly from Head/Neck Squamous Cell Carcinoma Histopathology Slides](https://www.redjournal.org/article/S0360-3016(19)34202-6/fulltext)</span>  
-	*International Journal of Radiation Oncology*, 2022
+	*International Journal of Radiation Oncology*, 2020
 
-- 
+- <span style="color:CornflowerBlue"> [Machine Learning for Usage Based Insurance]</span> 
+  Poster presentation. Blaise Munyampirwa, Rebecca Willett and Willem Marais, 2022. ![Research Poster](poster.png)
 
 
