@@ -25,6 +25,6 @@ Research
 
 - <span style="color:CornflowerBlue"> Machine Learning for Usage Based Insurance</span> 
   Poster presentation. Blaise Munyampirwa, Rebecca Willett and Willem Marais, 2022.
-  ![Research Poster](ubi.png)
+  ![Research Poster](ubi.png =250x)
 
 
