@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Blaise Munyampirwa"
   avatar           : "profile.png"
-  bio              : "Engineer at Groundlight AI"
-  employer         : "Groundlight AI"
+  bio              : "Engineering at Argmax"
+  employer         : "Argmax, Inc."
   email            : "blaisemunyampirwa@gmail.com"
-  github           : "https://github.com/BlaiseMuhirwa"
-  linkedin         : "https://www.linkedin.com/in/blaise-munyampirwa-2a1673143"
+  github           : "BlaiseMuhirwa"
+  linkedin         : "blaise-munyampirwa-2a1673143"
 
 # Reading Files
 include:
