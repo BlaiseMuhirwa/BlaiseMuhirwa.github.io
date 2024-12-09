@@ -11,12 +11,11 @@ redirect_from:
 {% include base_path %}
 Hi there! 
 
-I am currently working as an Engineer at <a href="https://www.groundlight.ai" style="text-decoration:none;color:CornflowerBlue">Groundlight AI </a>. Previously, I was an 
-AI engineer at <a href="https://thirdai.com" style="text-decoration:none;color:CornflowerBlue">ThirdAI</a> where I worked on a variety of machine learning and engineering problems. Prior to that, I was a student at The University of Chicago where I double-majored in Computer Science and Computational and Applied Mathematics. I was fortunate enough to be advised by Professor <a href="https://willett.psd.uchicago.edu/" style="text-decoration:none;color:CornflowerBlue">Rebecca Willet</a> and to work with Professor <a href="https://raulcastrofernandez.com/" style="text-decoration:none;color:CornflowerBlue">Raul Castro Fernandez</a>.
+I am currently a Member of Technical Staff at Argmax where we're working on on-device foundation models. Previously, I also worked at <a href="https://www.groundlight.ai" style="text-decoration:none;color:CornflowerBlue">Groundlight AI </a> and <a href="https://thirdai.com" style="text-decoration:none;color:CornflowerBlue">ThirdAI</a> where I worked on a variety of machine learning and engineering problems. Prior to that, I was a student at The University of Chicago where I double-majored in Computer Science and Computational and Applied Mathematics. I was fortunate enough to be advised by Professor <a href="https://willett.psd.uchicago.edu/" style="text-decoration:none;color:CornflowerBlue">Rebecca Willet</a>.
 
 My research interests, broadly defined, are in statistical machine learning and machine learning systems.
 For the latter, I'm mostly excited about devising fast and hardware efficient algorithms for training and inferencing large language models. This involves leveraging sparsity patterns in both the data and the model. I also enjoy working on efficient algorithms for 
-high dimensional vector search on dense vector embeddings using graph-based methods. 
+high dimensional vector search on dense vector embeddings using graph-based techniques. 
 
 Research
 ======
