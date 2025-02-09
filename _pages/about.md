@@ -23,6 +23,7 @@ Research
 
 - <a href="https://arxiv.org/pdf/2412.01940" style="text-decoration:none; color:CornflowerBlue">
 Down with the Hierarchy: The ‘H’ in HNSW Stands for “Hubs”</a>
+
 *arXiv preprint. Blaise Munyampirwa, Vihan Lakshman, Benjamin Coleman, 2024.*
 
 - <a href="https://app.virtualpostersession.org/e/efba16cd3274f1b2dbd5570e9fe9a30d" style="text-decoration:none; color:CornflowerBlue"> 
