@@ -31,3 +31,10 @@ Machine Learning for Usage Based Insurance</a>
 
 - <a href="https://www.redjournal.org/article/S0360-3016(19)34202-6/fulltext" style="text-decoration:none; color:CornflowerBlue">Deep Learning Detects Actionable Molecular and Clinical Features Directly from Head/Neck Squamous Cell Carcinoma Histopathology Slides</a>
 *International Journal of Radiation Oncology*, 2020
+
+
+Talks and Presentations
+======
+
+- [Optimizing HNSW in the Age of Vector Databases](https://blaisemuhirwa.github.io/_files/talks/flatnav-talk.pdf)
+*Presented at Amazon Search, Palo Alto CA.*
