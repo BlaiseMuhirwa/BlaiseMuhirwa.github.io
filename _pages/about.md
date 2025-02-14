@@ -36,5 +36,6 @@ Machine Learning for Usage Based Insurance</a>
 Talks and Presentations
 ======
 
-- [Optimizing HNSW in the Age of Vector Databases](https://blaisemuhirwa.github.io/_files/talks/flatnav-talk.pdf)
+- <a href="https://blaisemuhirwa.github.io/_files/talks/flatnav-talk.pdf" style="text-decoration:none; color:CornflowerBlue">
+Optimizing HNSW in the Age of Vector Databases</a>
 *Presented at Amazon Search, Palo Alto CA.*
