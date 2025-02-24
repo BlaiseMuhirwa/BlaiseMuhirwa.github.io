@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Optimizing HNSW in the age of vector databases",
+        "type": "Talk",
+        "venue": "Amazon Search, Palo Alto, CA", 
+        "talk_date": "2025-01-22", 
+        "url_slug": "flatnav-vector-search-talk", 
+        "teaser_url": "",
+        "video_url": "",
+        "slides_url": "https://blaisemuhirwa.github.io/files/flatnav-talk.pdf",
+        "location": "Palo Alto, CA",
+        "excerpt": "Near neighbor search over vector embeddings is a linchpin of modern ML infrastructure, forming a core component of established applications to search and retrieval as well as emerging LLM applications via retrieval-augmented generation (RAG). The seminal Hierarchical Navigable Small World (HNSW) graph index is perhaps the most popular choice in current vector database implementations. In this talk, we share two methods to significantly optimize the HNSW memory consumption and query latency, by removing the hierarchical component of the index and reordering the graph layout. Our extensive benchmark studies show that these methods are simple, easy to productionize, and offer robust performance improvements (on the order of 20-30% peak memory and latency)."
+    }
+]
