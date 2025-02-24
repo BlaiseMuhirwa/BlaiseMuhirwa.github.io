@@ -17,11 +17,26 @@ My research interests, broadly defined, are in statistical learning theory and m
 For the latter, I'm mostly excited about devising fast and hardware efficient algorithms for training and inferencing large language models. This involves leveraging sparsity patterns in both the data and the model. I also enjoy working on efficient algorithms for 
 high dimensional vector search on dense vector embeddings using graph-based techniques. 
 
+
+Publications 
+------
+<i class="fas fa-link" aria-hidden="true"></i> <a href="https://blaisemuhirwa.github.io/publications/">Abstracts</a>
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-short-publication.html %}
+{% endfor %}</ul>
+  
+Talks and presentations
+------
+<i class="fas fa-link" aria-hidden="true"></i> <a href="https://blaisemuhirwa.github.io/talks/">Slides and Recordings</a>
+<ul>{% for post in site.talks reversed %}
+  {% include archive-single-short-talk.html %}
+{% endfor %}</ul>
+
 Research
 ======
 
 
-- <a href="https://arxiv.org/pdf/2412.01940" style="text-decoration:none; color:CornflowerBlue">
+<!-- - <a href="https://arxiv.org/pdf/2412.01940" style="text-decoration:none; color:CornflowerBlue">
 Down with the Hierarchy: The ‘H’ in HNSW Stands for “Hubs”</a>
 *arXiv preprint. Blaise Munyampirwa, Vihan Lakshman, Benjamin Coleman, 2024.*
 
@@ -38,4 +53,4 @@ Talks and Presentations
 
 - <a href="https://blaisemuhirwa.github.io/_files/talks/flatnav-talk.pdf" style="text-decoration:none; color:CornflowerBlue">
 Optimizing HNSW in the Age of Vector Databases</a>
-*Presented at Amazon Search, Palo Alto CA.*
+*Presented at Amazon Search, Palo Alto CA.* -->
