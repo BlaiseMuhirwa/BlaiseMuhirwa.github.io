@@ -32,8 +32,8 @@ Talks and presentations
   {% include archive-single-short-talk.html %}
 {% endfor %}</ul>
 
-Research
-======
+<!-- Research
+====== -->
 
 
 <!-- - <a href="https://arxiv.org/pdf/2412.01940" style="text-decoration:none; color:CornflowerBlue">
