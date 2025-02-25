@@ -1,0 +1,43 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <li>
+    <p style="margin: 0;">
+      {% if post.citation %}  
+        {{ post.citation }} 
+      {% endif %}
+      {% if post.acceptancetype %}  
+        ({{ post.acceptancetype }})
+      {% endif %}
+      {% if post.acceptancerate %}  
+        (acceptance-rate: {{ post.acceptancerate }})
+      {% endif %}
+
+      {% if post.paperurl %} 
+        {% if post.paperurl contains "internal" %} 
+          {% if post.alternativeurl %} 
+            ({{ post.alternativeurl }})
+          {% else %}
+            (Internal venue) 
+          {% endif %}
+        {% else %}
+          (<a href="{{ post.paperurl }}">{{ post.paperurl }}</a>)
+        {% endif %}
+      {% endif %}
+    </p>
+    </li>
+ </article>
+</div>
