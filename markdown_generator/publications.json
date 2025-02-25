@@ -11,5 +11,18 @@
         "alternative_url": "",
         "citation": "<i>(Preprint)</i> <u>Blaise Munyampirwa</u>, Vihan Lakshman, Benjamin Coleman. <b>&quot;Down with the Hierarchy: The 'H' in HNSW stands for 'Hubs'&quot;</b>.",
         "excerpt": "Driven by recent breakthrough advances in neural representation learning, approximate near-neighbor (ANN) search over vector embeddings has emerged as a critical computational workload. With the introduction of the seminal Hierarchical Navigable Small World (HNSW) algorithm, graph-based indexes have established themselves as the overwhelmingly dominant paradigm for efficient and scalable ANN search. As the name suggests, HNSW searches a layered hierarchical graph to quickly identify neighborhoods of similar points to a given query vector. But is this hierarchy even necessary? A rigorous experimental analysis to answer this question would provide valuable insights into the nature of algorithm design for ANN search and motivate directions for future work in this increasingly crucial domain. To that end, we conduct an extensive benchmarking study covering more large-scale datasets than prior investigations of this question. We ultimately find that a flat navigable small world graph graph retains all of the benefits of HNSW on high-dimensional datasets, with latency and recall performance essentially identical to the original algorithm but with less memory overhead. Furthermore, we go a step further and study why the hierarchy of HNSW provides no benefit in high dimensions, hypothesizing that navigable small world graphs contain a well-connected, frequently traversed 'highway' of hub nodes that maintain the same purported function as the hierarchical layers. We present compelling empirical evidence that the Hub Highway Hypothesis holds for real datasets and investigate the mechanisms by which the highway forms. The implications of this hypothesis may also provide future research directions in developing enhancements to graph-based ANN search."
+    },
+    {
+        "title": "Deep learning detects actionable molecular and clinical features directly from head/neck squamous cell carcinoma histopathology slides",
+        "pub_date": "2020-04-01",
+        "url_slug": "deep-learning-for-squamous-cell-carcinoma",
+        "paper_url": "https://www.redjournal.org/article/S0360-3016(19)34202-6/abstract",
+        "teaser_url": "",
+        "venue": "International Journal of Radiation Oncology, Biology, Physics",
+        "acceptance_rate": "",
+        "acceptance_type": "",
+        "alternative_url": "",
+        "citation": "Deep learning detects actionable molecular and clinical features directly from head/neck squamous cell carcinoma histopathology slides. J. Dolezal, J.N. Kather, S. Kochanny, J. Schulte, A. Patel, <u> B. Munyampirwa</u>, S. Morin, A. Srisuwananukorn, N. Cipriani,  D. Basu, A. Pearson.<i>International Journal of Radiation Oncology, Biology, Physics, Volume 106, Issue 5, 1165</i>",
+        "excerpt": "The purpose of this abstract is to describe the application of deep learning to digital histopathology slide data for detection of clinically relevant features. Deep learning is a form of artificial intelligence which can process graphical data and “learn” to extract hidden features. Here we test the ability of deep learning to detect human papilloma virus, location of origin, and other features."
     }
 ]
