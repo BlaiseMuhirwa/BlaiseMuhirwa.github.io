@@ -9,7 +9,7 @@ various on-device and server-side systems. SDBench1 enables reproducible evaluat
 date: 2025-02-18
 venue: 'Interspeech, 2025'
 paperurl: 'https://www.argmaxinc.com/sdbench-paper'
-citation: 'Berkin Durmus, <u> Blaise Munyampirwa </u>, Eduardo Pacheco, Atila Orhon, Andrey Leonov
+Citation: 'Berkin Durmus, <u> Blaise Munyampirwa </u>, Eduardo Pacheco, Atila Orhon, Andrey Leonov''
 ---
 Even state-of-the-art speaker diarization systems exhibit high variance in error rates across different datasets, representing
 numerous use cases and domains. Furthermore, comparing across systems requires careful application of best practices such as dataset splits and metric definitions to allow for applesto-apples comparison. We propose SDBench (Speaker Diarization Benchmark), an open-source benchmark suite that integrates 13 diverse datasets with built-in tooling for consistent and fine-grained analysis of speaker diarization performance for
@@ -17,4 +17,4 @@ various on-device and server-side systems. SDBench1 enables reproducible evaluat
 
 [Download](https://www.argmaxinc.com/sdbench-paper)
 
-citation: 'Berkin Durmus, <u> Blaise Munyampirwa </u>, Eduardo Pacheco, Atila Orhon, Andrey Leonov
+Citation: 'Berkin Durmus, <u> Blaise Munyampirwa </u>, Eduardo Pacheco, Atila Orhon, Andrey Leonov'
