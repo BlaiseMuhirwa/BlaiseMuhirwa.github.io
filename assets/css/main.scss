@@ -39,3 +39,9 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Custom styling for consistent link colors */
+.toc__menu a {
+  color: CornflowerBlue !important;
+  text-decoration: none !important;
+}

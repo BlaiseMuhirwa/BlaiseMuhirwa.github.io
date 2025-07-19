@@ -26,8 +26,8 @@
     {% endif %}
     {% if post.videourl or post.slidesurl %}
       <p style="margin: 0;">
-        {% if post.videourl %} [<a href="{{ post.videourl }}">Recording</a>] {% endif %}
-        {% if post.slidesurl %} [<a href="{{ post.slidesurl }}">Slides</a>] {% endif %}
+        {% if post.videourl %} [<a href="{{ post.videourl }}" style="text-decoration:none;color:CornflowerBlue">Recording</a>] {% endif %}
+        {% if post.slidesurl %} [<a href="{{ post.slidesurl }}" style="text-decoration:none;color:CornflowerBlue">Slides</a>] {% endif %}
       </p>
     {% endif %}
     </li>

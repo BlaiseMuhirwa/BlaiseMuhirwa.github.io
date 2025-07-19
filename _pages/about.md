@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 Hi there! 
 
-I am currently a Member of Technical Staff at <a href="https://www.argmaxinc.com/" style="text-decoration:none;color:CornflowerBlue">Argmax</a> where we're working on on-device foundation model inference. Previously, I also worked at <a href="https://www.groundlight.ai" style="text-decoration:none;color:CornflowerBlue">Groundlight AI </a> and <a href="https://thirdai.com" style="text-decoration:none;color:CornflowerBlue">ThirdAI</a> where I worked on a variety of machine learning and engineering problems. Prior to that, I was a student at The University of Chicago where I double-majored in Computer Science and Computational and Applied Mathematics. I was fortunate enough to be advised by Professor <a href="https://willett.psd.uchicago.edu/" style="text-decoration:none;color:CornflowerBlue">Rebecca Willet</a>.
+I am currently a Member of Technical Staff at <a href="https://www.argmaxinc.com/" style="text-decoration:none;color:CornflowerBlue">Argmax</a> where we're working on on-device foundation model inference. Previously, I also worked at <a href="https://www.groundlight.ai" style="text-decoration:none;color:CornflowerBlue">Groundlight AI </a> and <a href="https://thirdai.com" style="text-decoration:none;color:CornflowerBlue">ThirdAI</a> where I worked on a variety of machine learning and engineering problems. Prior to that, I was a student at The University of Chicago where I double-majored in Computer Science and Computational and Applied Mathematics.
 
 Among other things, I am also the maintainer of <a href="https://www.flatnav.net/" style="text-decoration:none;color:CornflowerBlue">flatnav</a>, a robust and memory-efficient library for performing vector search at scale.
 
@@ -22,14 +22,14 @@ high dimensional vector search on dense vector embeddings using graph-based tech
 
 Publications 
 ------
-<i class="fas fa-link" aria-hidden="true"></i> <a href="https://blaisemuhirwa.github.io/publications/">Abstracts</a>
+<i class="fas fa-link" aria-hidden="true"></i> <a href="https://blaisemuhirwa.github.io/publications/" style="text-decoration:none;color:CornflowerBlue">Abstracts</a>
 <ul>{% for post in site.publications reversed %}
   {% include archive-single-short-publication.html %}
 {% endfor %}</ul>
   
 Talks and presentations
 ------
-<i class="fas fa-link" aria-hidden="true"></i> <a href="https://blaisemuhirwa.github.io/talks/">Slides and Recordings</a>
+<i class="fas fa-link" aria-hidden="true"></i> <a href="https://blaisemuhirwa.github.io/talks/" style="text-decoration:none;color:CornflowerBlue">Slides and Recordings</a>
 <ul>{% for post in site.talks reversed %}
   {% include archive-single-short-talk.html %}
 {% endfor %}</ul>
