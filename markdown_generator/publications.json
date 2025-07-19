@@ -24,5 +24,18 @@
         "alternative_url": "",
         "citation": "Deep learning detects actionable molecular and clinical features directly from head/neck squamous cell carcinoma histopathology slides. J. Dolezal, J.N. Kather, S. Kochanny, J. Schulte, A. Patel, <u> B. Munyampirwa</u>, S. Morin, A. Srisuwananukorn, N. Cipriani,  D. Basu, A. Pearson.<i>International Journal of Radiation Oncology, Biology, Physics, Volume 106, Issue 5, 1165</i>",
         "excerpt": "The purpose of this abstract is to describe the application of deep learning to digital histopathology slide data for detection of clinically relevant features. Deep learning is a form of artificial intelligence which can process graphical data and “learn” to extract hidden features. Here we test the ability of deep learning to detect human papilloma virus, location of origin, and other features."
+    },
+    {
+        "title": "SDBench: A Comprehensive Benchmark Suite for Speaker Diarization",
+        "pub_date": "2025-02-18", 
+        "url_slug": "sdbench-paper", 
+        "paper_url": "https://www.argmaxinc.com/sdbench-paper",
+        "teaser_url": "",
+        "venue": "Interspeech, 2025", 
+        "acceptance_rate": "",
+        "acceptance_type": "",
+        "alternative_url": "",
+        "citation": "<i>Interspeech, 2025</i> Berkin Durmus, <u>Blaise Munyampirwa</u>, Eduardo Pacheco, Atila Orhon, Andrey Leonov. <b>&quot;SDBench: A Comprehensive Benchmark Suite for Speaker Diarization&quot;</b>.",
+        "excerpt": "Even state-of-the-art speaker diarization systems exhibit high variance in error rates across different datasets, representing numerous use cases and domains. Furthermore, comparing across systems requires careful application of best practices such as dataset splits and metric definitions to allow for apples-to-apples comparison. We propose SDBench (Speaker Diarization Benchmark), an open-source benchmark suite that integrates 13 diverse datasets with built-in tooling for consistent and fine-grained analysis of speaker diarization performance for various on-device and server-side systems. SDBench enables reproducible evaluation and easy integration of new systems over time. To demonstrate the efficacy of SDBench, we built SpeakerKit, an inference efficiency-focused system built on top of Pyannote v3. SDBench enabled rapid execution of ablation studies that led to SpeakerKit being 9.6x faster than Pyannote v3 while achieving comparable error rates."
     }
 ]
