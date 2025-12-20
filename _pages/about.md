@@ -15,12 +15,9 @@ I am currently a Member of Technical Staff at <a href="https://www.argmaxinc.com
 
 Among other things, I am also the maintainer of <a href="https://www.flatnav.net/" style="text-decoration:none;color:CornflowerBlue">flatnav</a>, a robust and memory-efficient library for performing vector search at scale.
 
-My research interests, broadly defined, are in statistical learning theory and machine learning systems.
-For the latter, I'm mostly excited about devising fast and hardware efficient algorithms for training and inferencing large language models. This involves leveraging sparsity patterns in both the data and the model. I also enjoy working on efficient algorithms for 
-high dimensional vector search on dense vector embeddings using graph-based techniques. 
+My research interests, broadly defined, are in information retrieval, learning theory and machine learning systems. On the IR side of things, I enjoy working on efficient algorithms for high-dimensional vector search on dense embeddings. On the ML systems side, I am mostly excited about ways we can make inference faster for foundation models.
 
-
-Publications 
+Preprints and Publications 
 ------
 <i class="fas fa-link" aria-hidden="true"></i> <a href="https://blaisemuhirwa.github.io/publications/" style="text-decoration:none;color:CornflowerBlue">Abstracts</a>
 <ul>{% for post in site.publications reversed %}
