@@ -5,7 +5,7 @@ urlslug: "flatnav-paper"
 permalink: /publication/2025-01-22-flatnav-paper
 excerpt: 'Driven by recent breakthrough advances in neural representation learning, approximate near-neighbor (ANN) search over vector embeddings has emerged as a critical computational workload. With the introduction of the seminal Hierarchical Navigable Small World (HNSW) algorithm, graph-based indexes have established themselves as the overwhelmingly dominant paradigm for efficient and scalable ANN search.'
 date: 2025-01-22
-venue: 'ICML 2025 VecDB Workshop'
+venue: 'ECIR, 2026'
 paperurl: 'https://arxiv.org/pdf/2412.01940'
 citation: '<u>Blaise Munyampirwa</u>, Vihan Lakshman, Benjamin Coleman. Down with the Hierarchy: The H in HNSW stands for Hubs.'
 ---
