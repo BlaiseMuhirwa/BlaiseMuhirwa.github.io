@@ -16,22 +16,23 @@
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <li>
     <p style="margin: 0;">
-      {% if post.citation %}  
-        {{ post.citation }} 
+      <strong>{{ title }}</strong>
+      {% if post.citation %}
+        <br>{{ post.citation }}
       {% endif %}
-      {% if post.acceptancetype %}  
+      {% if post.acceptancetype %}
         ({{ post.acceptancetype }})
       {% endif %}
-      {% if post.acceptancerate %}  
+      {% if post.acceptancerate %}
         (acceptance-rate: {{ post.acceptancerate }})
       {% endif %}
 
-      {% if post.paperurl %} 
-        {% if post.paperurl contains "internal" %} 
-          {% if post.alternativeurl %} 
+      {% if post.paperurl %}
+        {% if post.paperurl contains "internal" %}
+          {% if post.alternativeurl %}
             ({{ post.alternativeurl }})
           {% else %}
-            (Internal venue) 
+            (Internal venue)
           {% endif %}
         {% else %}
           (<a href="{{ post.paperurl }}" style="text-decoration:none;color:CornflowerBlue">{{ post.paperurl }}</a>)
