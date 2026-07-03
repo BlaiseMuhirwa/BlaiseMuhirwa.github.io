@@ -31,6 +31,12 @@ Talks and presentations
   {% include archive-single-short-talk.html %}
 {% endfor %}</ul>
 
+Service
+------
+<ul>
+  <li>Reviewer, <a href="https://neurips.cc/" style="text-decoration:none;color:CornflowerBlue">NeurIPS 2026</a></li>
+</ul>
+
 <!-- Research
 ====== -->
 
