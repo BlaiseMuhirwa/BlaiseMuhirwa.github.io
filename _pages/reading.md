@@ -4,15 +4,15 @@ title: "Favorite Reads"
 author_profile: true
 ---
 
-Some of my favorite books across mathematics, computer science, and systems.
+Some of my favorite books across mathematics, computer science, and systems. Books highlighted in <span style="color: cyan;">cyan</span> are ones I'm currently reading.
 
 <ul style="list-style-type: none; padding-left: 0;">
   <li style="margin-bottom: 12px;">
-    <strong>High Dimensional Statistics: A Non-Asymptotic Viewpoint</strong><br>
+    <strong style="color: cyan;">High Dimensional Statistics: A Non-Asymptotic Viewpoint</strong><br>
     <span style="color: gray;">Martin J. Wainwright</span>
   </li>
   <li style="margin-bottom: 12px;">
-    <strong>Brownian Motion and Stochastic Calculus</strong><br>
+    <strong style="color: cyan;">Brownian Motion and Stochastic Calculus</strong><br>
     <span style="color: gray;">Ioannis Karatzas, Steven E. Shreve</span>
   </li>
   <li style="margin-bottom: 12px;">
@@ -48,7 +48,7 @@ Some of my favorite books across mathematics, computer science, and systems.
     <span style="color: gray;">Daniel Kusswurm</span>
   </li>
   <li style="margin-bottom: 12px;">
-    <strong>Programming Massively Parallel Processors</strong><br>
+    <strong style="color: cyan;">Programming Massively Parallel Processors</strong><br>
     <span style="color: gray;">Wen-mei W. Hwu, David B. Kirk, Izzat El Hajj</span>
   </li>
   <li style="margin-bottom: 12px;">
@@ -62,5 +62,9 @@ Some of my favorite books across mathematics, computer science, and systems.
   <li style="margin-bottom: 12px;">
     <strong>Mathematical Statistics and Data Analysis</strong><br>
     <span style="color: gray;">John A. Rice</span>
+  </li>
+  <li style="margin-bottom: 12px;">
+    <strong style="color: cyan;">Probability and Measure</strong><br>
+    <span style="color: gray;">Patrick Billingsley</span>
   </li>
 </ul>
