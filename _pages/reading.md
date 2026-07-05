@@ -43,4 +43,24 @@ Some of my favorite books across mathematics, computer science, and systems.
     <strong>Introduction to Topological Manifolds</strong><br>
     <span style="color: gray;">John M. Lee</span>
   </li>
+  <li style="margin-bottom: 12px;">
+    <strong>Modern Parallel Programming with C++ and Assembly Language</strong><br>
+    <span style="color: gray;">Daniel Kusswurm</span>
+  </li>
+  <li style="margin-bottom: 12px;">
+    <strong>Programming Massively Parallel Processors</strong><br>
+    <span style="color: gray;">Wen-mei W. Hwu, David B. Kirk, Izzat El Hajj</span>
+  </li>
+  <li style="margin-bottom: 12px;">
+    <strong>Toeplitz Operators and Random Matrices</strong><br>
+    <span style="color: gray;">Estelle Basor, Albrecht Böttcher, Torsten Ehrhardt, Craig A. Tracy</span>
+  </li>
+  <li style="margin-bottom: 12px;">
+    <strong>Reinforcement Learning: An Introduction</strong><br>
+    <span style="color: gray;">Richard S. Sutton, Andrew G. Barto</span>
+  </li>
+  <li style="margin-bottom: 12px;">
+    <strong>Mathematical Statistics and Data Analysis</strong><br>
+    <span style="color: gray;">John A. Rice</span>
+  </li>
 </ul>
